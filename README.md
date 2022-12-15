@@ -1,2 +1,4 @@
 ## Felipe Pontes 15/12/22
-Primeiros passos na linguagem C na cadeira de Computação Eletrônica da universidade 
+Meus primeiros passos na linguagem C. Na cadeira de Computação Eletrônica da UFPE.
+##
+Criei Uma calculadora de média simples para as provas da universidade.
